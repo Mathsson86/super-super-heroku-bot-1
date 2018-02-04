@@ -2,12 +2,12 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "runbot.bat",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node runbot.bat"
   },
   "dependencies": {
     "discord.js": "11.1.0",
-    "request": "2.81.0"
+    "request": "options.ini"
   }
 }
